@@ -1,0 +1,3 @@
+[submodule "cluster-api-upgrade-tool"]
+	path = cluster-api-upgrade-tool
+	url = https://github.com/vmware/cluster-api-upgrade-tool
